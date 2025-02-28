@@ -1,0 +1,1 @@
+print('Vcc practical Exam')
